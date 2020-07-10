@@ -21,7 +21,7 @@ const default_tz = "America/Los_Angeles";
 const defaultLocation = "US";
 
 // the GCS bucket to stage the file
-const bucket = "mark-location-history";
+const bucket = "location-history-bucket";
 const newfile = 'semantic-history.jsonl';
 
 // the BigQuery dataset and table to load the file
