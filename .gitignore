@@ -1,0 +1,8 @@
+node_modules
+/sem/*
+lh*
+*.jsonl
+*.jsonl.gz
+service*json
+.DS_Store
+

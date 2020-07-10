@@ -1,0 +1,96 @@
+[
+    {   "name": "date",
+        "type": "DATE",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "type",
+        "type": "STRING",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "latStart",
+        "type": "FLOAT"
+    },
+    {
+        "name": "lonStart",
+        "type": "FLOAT"
+    },
+    {
+        "name": "latEnd",
+        "type": "FLOAT"
+    },
+    {
+        "name": "lonEnd",
+        "type": "FLOAT"
+    },
+    {
+        "name": "moveType",
+        "type": "STRING"
+    },
+    {
+        "name": "distance",
+        "type": "FLOAT"
+    },
+    {
+        "name": "semType",
+        "type": "STRING"
+    },
+    {
+        "name": "placeId",
+        "type": "STRING"
+    },
+    {
+        "name": "address",
+        "type": "STRING" 
+    },
+    {
+        "name": "name",
+        "type": "STRING"
+    },
+    {
+        "name": "confidence",
+        "type": "FLOAT"
+    },
+    {
+        "name": "timestampStart",
+        "type": "TIMESTAMP"
+    },
+    {
+        "name": "timestampEnd",
+        "type": "TIMESTAMP"
+    },
+    {
+        "name": "duration",
+        "type": "INTEGER"
+    },
+    {
+        "name": "latCenter",
+        "type": "FLOAT"
+    },
+    {
+        "name": "lonCenter",
+        "type": "FLOAT"
+    },
+    {
+        "name": "waypointPath",
+        "type": "GEOGRAPHY"
+    },
+    {
+        "name": "rawPath",
+        "type": "GEOGRAPHY"
+    },
+    {
+        "name": "pointStart",
+        "type": "GEOGRAPHY"
+    },
+    {
+        "name": "pointEnd",
+        "type": "GEOGRAPHY"
+    },
+    {
+        "name": "pointCenter",
+        "type": "GEOGRAPHY"
+    }
+
+]

@@ -1,0 +1,24 @@
+{
+  "name": "jsonl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "dependencies": {
+    "@google-cloud/bigquery": "^5.0.0",
+    "@google-cloud/storage": "^5.1.1",
+    "colors": "^1.4.0",
+    "geo-tz": "^6.0.0",
+    "get-safe": "^1.5.0",
+    "glob-promise": "^3.4.0",
+    "json-to-jsonl": "^1.1.0",
+    "moment-timezone": "^0.5.31",
+    "webpack": "^4.43.0",
+    "zlib": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
